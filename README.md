@@ -14,11 +14,13 @@ python -m venv .venv
 # Attiva l'ambiente virtuale
 source .venv/bin/activate  # Su Windows usa ".venv\Scripts\activate"
 ```
+## Step-four
 -Assicurati di installare i moduli con i seguenti comandi nel terminale:
 ```python
 pip install requests
 pip install beautifulsoup4
 ```
+## Final-step
 -Avvia il codice nel terminale con il comando 
 ```bash
 python main.py
